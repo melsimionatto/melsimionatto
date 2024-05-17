@@ -1,5 +1,14 @@
 ### Hi there 👋 I'm Melani Simionatto
 
+####  Computer Engineering Student
+
+
+
+
+
+
+
+
 <!--
 **melsimionatto/melsimionatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
