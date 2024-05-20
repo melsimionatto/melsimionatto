@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://melsimionatto.github.io/simionattomelaniPortafolio/)
+- 👨‍💻 All of my projects are available in my [portfolio](https://melsimionatto.github.io/simionattomelaniPortafolio/)
 
 - 📫 How to reach me **simionattomelani@gmail.com**
 
