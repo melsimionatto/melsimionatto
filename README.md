@@ -2,6 +2,10 @@
 
 ####  Computer Engineering Student
 
+- 🔭 I’m currently working on Nacional University of Rafaela
+- 🌱 I’m currently learning C++
+
+
 
 
 
