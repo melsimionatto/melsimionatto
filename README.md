@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on National University of Rafaela [Website](https://www.unraf.edu.ar/)
 
-- 🌱 I’m currently learning **C++**
+<!--- 🌱 I’m currently learning ****-->
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://melsimionatto.github.io/simionattomelaniPortafolio/)
 
