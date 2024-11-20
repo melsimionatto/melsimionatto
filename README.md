@@ -1,5 +1,5 @@
 # 💼 Melani Simionatto  
-Técnica Universitaria en Administración y Gestión de la Información -->
+<!--Técnica Universitaria en Administración y Gestión de la Información -->
 ---
 🎯 *Analista Funcional | Estudiante de Ingeniería en Computación y Administración de la Información*  
 📊 *Desarrolladora de soluciones en datos, tableros de control y gestión de información empresarial.*  
