@@ -1,27 +1,53 @@
+# 💼 Melani Simionatto  
+🎯 *Analista Funcional | Estudiante de Ingeniería en Computación y Administración de la Información*  
+📊 *Desarrolladora de soluciones en datos, tableros de control y gestión de información empresarial.*  
+💡 *Apasionada por resolver problemas complejos con tecnología y automatización.*  
 
+---
 
-<h1 align="center">Hi 👋, I'm Melani Simionatto</h1>
-<h3 align="center">Computer Engineering Student</h3>
+## 👩‍💻 Sobre mí  
+Soy una profesional con experiencia en el análisis funcional y desarrollo de herramientas tecnológicas que optimizan procesos empresariales. Combino mi formación académica en **Gestión de la Información** e **Ingeniería en Computación** con habilidades prácticas en **desarrollo web** y **visualización de datos**, utilizando tecnologías como:  
 
-- 🔭 I’m currently working on National University of Rafaela [Website](https://www.unraf.edu.ar/)
+- 🐍 **Python**  
+- 🌐 **HTML, CSS, JavaScript**  
+- 📊 **Power BI y Looker Studio**  
+- 🛠️ **Google G-Suite**  
 
-<!--- 🌱 I’m currently learning ****-->
+Mi objetivo es ayudar a las empresas a transformar datos en decisiones estratégicas, integrando diseño intuitivo y funcionalidad técnica.
 
-- 👨‍💻 All of my projects are available in my [portfolio](https://melsimionatto.github.io/simionattomelaniPortafolio/)
+---
 
-- 📫 How to reach me **simionattomelani@gmail.com**
+## 📌 Proyectos Destacados  
+### 1. **Tableros de Control en Power BI**  
+Desarrollé soluciones que incluyen análisis de ventas, historial por cliente y optimización de KPIs. Los tableros son interactivos y personalizados según las necesidades del negocio.  
+<!--[Ver repositorio ➡️](#)-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/melanisimionatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melanisimionatto" height="30" width="40" /></a>
-<a href="https://instagram.com/mellsimionatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mellsimionatoo" height="30" width="40" /></a>
-</p>
+### 2. **Landing Pages Personalizadas para E-commerce**  
+Diseñé páginas web para negocios que se integran con plataformas como MercadoShops y Tienda Nube, facilitando la gestión de productos y ventas en línea.  
+<!--[Ver repositorio ➡️](#)-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 3. **Programación Lineal para Optimización Empresarial**  
+Implementé modelos matemáticos en Python para resolver problemas de asignación de recursos y optimización en entornos corporativos.  
+<!--[Ver repositorio ➡️](#)-->
 
+---
 
+## 🚀 Habilidades Técnicas  
+- **Lenguajes:** Python, HTML, CSS, JavaScript  
+- **Herramientas de Datos:** Power BI, Looker Studio  
+- **Gestión de Información:** Excel avanzado, Google Sheets  
+- **Desarrollo Web:** Diseño responsivo, integración con CMS  
 
+---
+
+## 🌱 Mi Misión  
+*"Ayudar a las empresas a tomar decisiones informadas con datos claros y procesables, aprovechando al máximo las tecnologías modernas."*
+
+---
+
+📫 **Contáctame:**  
+- [LinkedIn](https://www.linkedin.com)  
+- [Email](mailto:tuemail@gmail.com)  
 
 
 
