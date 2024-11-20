@@ -26,8 +26,8 @@ Desarrollé soluciones que incluyen análisis de ventas, historial por cliente y
 Diseñé páginas web para negocios que se integran con plataformas como MercadoShops y Tienda Nube, facilitando la gestión de productos y ventas en línea.  
 <!--[Ver repositorio ➡️](#)-->
 
-### 3. **Programación Lineal para Optimización Empresarial**  
-Implementé modelos matemáticos en Python para resolver problemas de asignación de recursos y optimización en entornos corporativos.  
+### 3. **Desarrollo Web con CMS**  
+Diseñé y desarrollé sitios web utilizando herramientas CMS, adaptándolos a necesidades específicas como comercio electrónico y portales institucionales. Las soluciones incluyen integraciones personalizadas y diseño responsivo.  
 <!--[Ver repositorio ➡️](#)-->
 
 ---
