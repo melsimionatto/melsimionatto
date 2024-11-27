@@ -20,15 +20,15 @@ Mi objetivo es ayudar a las empresas a transformar datos en decisiones estratég
 ---
 
 ## 📌 Proyectos Destacados  
-### 1. **Tableros de Control en Power BI**  
+###  **Tableros de Control**  
 Desarrollé soluciones que incluyen análisis de ventas, historial por cliente y optimización de KPIs. Los tableros son interactivos y personalizados según las necesidades del negocio.  
 <!--[Ver repositorio ➡️](#)-->
 
-### 2. **Landing Pages Personalizadas para E-commerce**  
-Diseñé páginas web para negocios que se integran con plataformas como MercadoShops y Tienda Nube, facilitando la gestión de productos y ventas en línea.  
+###  **Landing Pages Personalizadas para E-commerce**  
+Diseñé páginas web para negocios que se integran con plataformas como MercadoShops y Presta Shops, facilitando la gestión de productos y ventas en línea.  
 <!--[Ver repositorio ➡️](#)-->
 
-### 3. **Desarrollo Web con CMS**  
+###  **Desarrollo Web con CMS**  
 Diseñé y desarrollé sitios web utilizando herramientas CMS, adaptándolos a necesidades específicas como comercio electrónico y portales institucionales. Las soluciones incluyen integraciones personalizadas y diseño responsivo.  
 <!--[Ver repositorio ➡️](#)-->
 
@@ -48,8 +48,8 @@ Diseñé y desarrollé sitios web utilizando herramientas CMS, adaptándolos a n
 ---
 
 📫 **Contáctame:**  
-- [LinkedIn](https://www.linkedin.com)  
-- [Email](mailto:tuemail@gmail.com)  
+- [LinkedIn](www.linkedin.com/in/melani-simionatto)  
+- [Email](mailto:simionattomelani@gmail.com)  
 
 
 
